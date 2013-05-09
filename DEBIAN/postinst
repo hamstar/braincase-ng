@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gem install gollum --no-ri --no-rdoc
+gem install smeagol --no-ri --no-rdoc
+gem install backup --no-ri --no-rdoc
+gem install thin --no-ri --no-rdoc
