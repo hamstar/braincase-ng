@@ -19,6 +19,8 @@ Designed to be deployed to a netinst Debian installation inside a virtual machin
 * **apache** (or nginx?)
  * main web server
  * reverse proxies to thin servers
+* **god**
+ * to manage daemons
 * **git**
  * for wiki backends
  * for data versatility
