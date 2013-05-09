@@ -1,0 +1,10 @@
+#!/bin/bash
+# TODO: insert LSBs here!
+
+usage() {
+  echo "Usage: $0 {}";
+}
+
+case "$1" in
+  *)  usage ;;
+esac;
