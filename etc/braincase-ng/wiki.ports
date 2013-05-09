@@ -1,0 +1,5 @@
+# This file Defines which ports each users wiki runs on
+#   e.g. 45610:45611 bob bob@bob.com
+# The first port is smeagol and the second is gollum
+# A single port means that only the gollum server will be run
+45600 admin root@localhost
