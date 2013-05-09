@@ -1,1 +1,1 @@
-Include "/etc/braincase/wikis"
+Include "/etc/braincase-ng/wikis/*"
