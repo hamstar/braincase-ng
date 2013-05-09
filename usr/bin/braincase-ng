@@ -1,0 +1,5 @@
+#!/usr/bin/env
+
+def usage
+  "Usage: braincase-ng"
+end
