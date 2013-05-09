@@ -4,4 +4,5 @@ This is where you can enter the name and emails of the users in the system.  Thi
 
 ```users
 bob bob@bob.com
+jim jim@jim.com
 ```
