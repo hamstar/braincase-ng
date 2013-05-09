@@ -1,0 +1,11 @@
+ProxyPass "/admin/" "http://127.0.0.1:45600/"
+
+<Location "/admin">
+  ProxyPassReverse "/"
+
+  # Authenticate this location
+  AuthType Basic
+  AuthName "User area"
+  AuthUserFile "/etc/braincase-ng.passwd"
+  Require valid-user
+</Location>
